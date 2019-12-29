@@ -79,11 +79,11 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Nataly Riquelme.", "Diseñadora UX.", "Diseñadora UI.", "Diseñadora Industrial"],
+      strings: ["Nataly Riquelme.", "Diseñadora UX/UI.", "Diseñadora Industrial"],
       typeSpeed: 100,
       loop: true,
     });
-  });
+  }); 
 
 
   // ========================================================================= //
